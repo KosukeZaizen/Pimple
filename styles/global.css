@@ -1,0 +1,28 @@
+.game-container{
+    position: relative;
+}
+
+.japanese-girl-img{
+    width: 500px;
+}
+
+.pimple-div{
+    position: absolute;
+    top:370px;
+    left:290px;
+    background-color: #f9c9c9;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    box-shadow: 0 0 3px red,0 0 3px red,0 0 3px red;
+}
+
+.pimple-core-div{
+    background-color: black;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    box-shadow: 0 0 1px black;
+}
